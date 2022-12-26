@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @xiaoxstz. I'm experienced in many popular programming languages, especially **C#,Python,Matlab,C++**.
 - 👀 I’m interested in latest technologies, programming trick and tools
-- 🌱 I'm study my PhD program in interdiscipline of optics and materials, espeically **microscopies, hologram optical tweezers,laser fabrication system**
 - 📫 tanzitxws@126.com
 
 <!---
